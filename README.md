@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Certainly! Here is an impressive README for the GitHub Mobile for Android repository:
+Certainly! Here is an impressive README for MoarKangarruus:
 
 ---
 
