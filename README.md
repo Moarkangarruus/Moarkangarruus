@@ -20,7 +20,7 @@ Certainly! Here is an impressive README for the GitHub Mobile for Android reposi
 
 ---
 
-# GitHub Mobile for Android 😀 
+# MoarKangarruus 😀 
 
 Welcome to the official repository for MoarKangarruus! This project brings the power of GitHub to your fingertips, enabling you to manage your projects, collaborate with your team, and stay connected with the GitHub community—all from your Android device.
 
